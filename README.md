@@ -1,5 +1,4 @@
 # Movie-Recommendation-System-
-This capstone project consists of a popularity based, content based, and collaborative based recommender system that is capable of suggesting movies on the basis of various parameters like genre , reviews, ratings, recommendations etc. 
 This project is a recommendation layer on top of OTT platforms that can make comprehensive moviie suggestions based on various paramters like genre , reviews, ratings, recommendations etc. It comsists of 3 recommender systems:
 1)Populairty Based recommender systems-User will input a genre (g), minimum ratings threshold (t) for a movie and no. of recommendations(N) for which it should be recommended top N movies which are most popular within that genre(g) ordered by ratings in descending order where each movie has at least (t) reviews.
 2)Content Based Recommender System -recommends top N movies based on similar movie(m) genres.
